@@ -30,6 +30,7 @@ nav .nav-link{
 nav .active{
     border: 1px solid #E20000;
     border-radius: 20px;
+
 }
 #inicio img{
     height: 400px; 
@@ -204,6 +205,7 @@ nav .active{
 .link-rojo a{
    color: #E20000;
    text-decoration: none;
+   
 }
 .btn:hover{
        color: white;
@@ -247,6 +249,7 @@ nav .active{
 }
 .whatsapp a{
     color: white;
+
 }    
 @media (max-width: 750px) {/* Para mobile */
     #contacto, #inicio {
