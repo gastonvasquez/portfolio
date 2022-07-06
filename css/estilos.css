@@ -42,12 +42,13 @@ nav .active{
 .cohete{
     height: 410px;
 }
-#inicio p{
+#inicio span{
     color:white;
     font-size: 17px;
     border: 1px white solid;
     border-radius: 15px;
-    font-weight: 600px;
+    
+    
    
 }
 #sobre-mi{
@@ -121,10 +122,24 @@ nav .active{
 #proyectos footer .fa-github, #sobre-mi footer .fa-github{
     font-size: 30px;
     color: #E20000;
+    
 }
 #proyectos footer .fa-linkedin-in{
+    font-size: 30px;
     color: white;
     background-color: #E20000;
+    border-radius: 80px;
+    margin: 8px;    border: 0px;
+    height: 32px;
+    width: 32px;
+    
+
+    
+
+}
+#proyectos footer {
+    padding-top: 40px;
+    padding: 16px;
 }
 .proyectos h2{
     font-size: 16px;
@@ -172,14 +187,8 @@ nav .active{
     padding: 10px;
     border-radius: 80%;
 }
-.baw {
-      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-        filter: grayscale(100%);
-}
-.baw:hover {
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter:grayscale(0%);
-}
+
+
 .color-gradiente{
     background: rgba(184,37,20,1);
     background: -moz-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
