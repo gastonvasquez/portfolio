@@ -1,6 +1,6 @@
 <?php
 
- $pg = "sobre mi";
+ $pg = "sobre-mi";
 
 ?>
 <!DOCTYPE html>
