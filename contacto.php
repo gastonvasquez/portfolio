@@ -64,18 +64,12 @@
             </div>
             <div class="col-12 col-sm-3 text-center text-sm-start pt-2 p-sm-0">
                 <a href="mailto:info@nelsontarche.com.ar">info@nelsontarche.com.ar</a>
+            </div> 
+        </div>       
+            <div class="whatsapp">
+              <a href="https://api.whatsapp.com/send?phone=541162423341" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
             </div>
-        </div>
-    </footer>    
-
-    <div class="whatsapp">
-        <a href="https://api.whatsapp.com/send?phone=541162423341" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
-    </div>
-
-    <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-
+            <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
     </footer>
-</body>
-
+  </body>
 </html>

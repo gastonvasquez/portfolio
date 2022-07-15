@@ -17,10 +17,11 @@
     <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="css/estilos.css">
 </head>
-<body id="proyectos" class="d-flex flex-column h-100">
+  <body id="proyectos" class="d-flex flex-column h-100">
     <header class="container">
     <?php include_once "menu.php";?>
-    </header> <main class="container">
+    </header>
+     <main class="container">
         
         <div class="row">
             <div class="col-12 mt-3 mb-5">
@@ -97,8 +98,6 @@
                 </div>
             </div>
         </div>
-        
-
     </main>
     <footer class="container mt-auto pb-4 py-5">
         <div class="row">
@@ -114,17 +113,10 @@
                 <a href="mailto:info@nelsontarche.com.ar">info@nelsontarche.com.ar</a>
             </div>
         </div>
-    </footer>    
-
-    <div class="whatsapp">
-        <a href="https://api.whatsapp.com/send?phone=541162423341" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
-    </div>
-
-    <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-
+        <div class="whatsapp">
+                <a href="https://api.whatsapp.com/send?phone=541162423341" title="Whatsapp"><i class="fab fa-whatsapp"></i></a>
+        </div>
+        <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
     </footer>
-
-</body>
-
+  </body>
 </html>
